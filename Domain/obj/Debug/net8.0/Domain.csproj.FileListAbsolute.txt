@@ -1,0 +1,15 @@
+D:\Shahenda\EmailService\Domain\bin\Debug\net8.0\Domain.exe
+D:\Shahenda\EmailService\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Shahenda\EmailService\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\Shahenda\EmailService\Domain\bin\Debug\net8.0\Domain.dll
+D:\Shahenda\EmailService\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Shahenda\EmailService\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shahenda\EmailService\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Shahenda\EmailService\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Shahenda\EmailService\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Shahenda\EmailService\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Shahenda\EmailService\Domain\obj\Debug\net8.0\Domain.dll
+D:\Shahenda\EmailService\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Shahenda\EmailService\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Shahenda\EmailService\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\Shahenda\EmailService\Domain\obj\Debug\net8.0\ref\Domain.dll
