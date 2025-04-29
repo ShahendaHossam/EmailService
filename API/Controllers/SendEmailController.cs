@@ -1,4 +1,5 @@
-﻿using Application.IManagers;
+﻿using Application.Dtos;
+using Application.IManagers;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
@@ -14,9 +15,9 @@ namespace API.Controllers
 
         [HttpPost]
         [Route("SendEmail")]
-        public async Task<IActionResult> SendEmail(string receiver, string subject, string body)
+        public async Task<IActionResult> SendEmail(SendEmailDto sendEmail)
         {
-            await _sendEmailManager.SendEmail(receiver, subject, body);
+            await _sendEmailManager.SendEmail(sendEmail);
             return Ok();
         }
     }
